@@ -1,2 +1,3 @@
 whatever test 2 --
 whatever
+testing a merge conflict!
