@@ -1,3 +1,4 @@
 whatever test 2 --
 whatever
 my clean version after removing conflicts
+Hello there, this is Kent messing with your file
